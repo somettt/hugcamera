@@ -1,0 +1,2 @@
+# hugcamera
+open sw
